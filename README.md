@@ -16,4 +16,4 @@ O repositório foi desenvolvido para o compreendimento da bibilioteca Axios.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/github-profile-finder.git
+   git clone https://github.com/JoaoVictxrz/consuming-API-from-github.git
