@@ -18,18 +18,17 @@ O repositório foi desenvolvido para o compreendimento da bibilioteca Axios.
    ```bash
    git clone https://github.com/seu-usuario/github-profile-finder.git
 
-   ```
-
 2. Abra o terminal e utilize:
 
-````bash
+```bash
   npm install
-```
+
 
 3. Execute a aplicação:
+
 ```bash
   npm run dev
-```
+
 
 ## Contribuição
 1. Faça um fork do projeto.
