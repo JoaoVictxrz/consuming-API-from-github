@@ -24,10 +24,12 @@ O repositório foi desenvolvido para o compreendimento da bibilioteca Axios.
 
 ````bash
   npm install
+```
 
 3. Execute a aplicação:
 ```bash
   npm run dev
+```
 
 ## Contribuição
 1. Faça um fork do projeto.
@@ -35,4 +37,3 @@ O repositório foi desenvolvido para o compreendimento da bibilioteca Axios.
 3. Faça commit das suas alterações (`git commit -m 'Minha nova feature'`).
 4. Envie para o repositório (`git push origin minha-feature`).
 5. Abra um Pull Request.
-````
